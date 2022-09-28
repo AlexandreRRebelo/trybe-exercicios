@@ -1,0 +1,26 @@
+div:hover{
+    border-style: groove;
+}
+.primaria:hover{
+
+    background-color:brown
+}
+.secundaria:hover{
+    background-color: rgb(24, 145, 24);
+}
+.complementar:hover{
+    font-size: 2em;
+    background-color: aquamarine;
+
+}
+.escura:hover{
+    background-color: black;
+
+}
+.clara:hover{
+    background-color: bisque;
+
+}
+.primaria, .complementar, .clara{
+    font-style: italic;
+}

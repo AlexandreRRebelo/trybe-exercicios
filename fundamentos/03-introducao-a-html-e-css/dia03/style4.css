@@ -1,0 +1,24 @@
+ol{
+    background-color: yellow;
+}
+.impar{
+    text-transform: capitalize;
+}
+
+.par{
+    color:green;
+}
+
+    h1,h3{
+    color:red
+}
+    h1{
+    font-size: 40px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    width: 619px;
+ }
+    li{
+        font-size: 20px ;
+    }

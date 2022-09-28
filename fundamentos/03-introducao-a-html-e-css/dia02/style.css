@@ -1,0 +1,31 @@
+        
+    h1 {
+        font-size:65px;
+        font-family:sans-serif;
+        color: orangered;
+    }
+    ul {
+        background-color:#A8989B;
+    }
+    #ul_p{
+        background-color:#867991 ;
+    }
+    p{
+        font-weight: 600;
+        font-size:3em ;
+    }
+    body{
+        font-size: 16px;
+        font-style: italic;
+        line-height: normal;
+        text-decoration:line-through;
+    }
+    #vermelho{
+        background-color: red;
+    }
+    #amarelo{
+        background-color: yellow;
+    }
+    #marrom{
+        background-color: brown;
+    }
